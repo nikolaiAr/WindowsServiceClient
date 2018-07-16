@@ -1,0 +1,5 @@
+C:\Users\n.aronov\Documents\Visual Studio 2013\Projects\WinClient\model\bin\Debug\model.dll
+C:\Users\n.aronov\Documents\Visual Studio 2013\Projects\WinClient\model\bin\Debug\model.pdb
+C:\Users\n.aronov\Documents\Visual Studio 2013\Projects\WinClient\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\n.aronov\Documents\Visual Studio 2013\Projects\WinClient\model\obj\Debug\model.dll
+C:\Users\n.aronov\Documents\Visual Studio 2013\Projects\WinClient\model\obj\Debug\model.pdb
